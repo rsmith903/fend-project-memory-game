@@ -2,19 +2,15 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [How to Play the Game](#how to play the gameinstructions)
+* [Creation of the Game](#creation of the game)
 
-## Instructions
+## How to Play the Game
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+When all the Cards match you WIN!!!!
 
-To get started, open `js/app.js` and start building out the app's functionality
+hit a card to open, and if dual cards match, they will stay open. When two cards do not match, they will will flip back over. Please make sure and remeber the symbol and keep looking for the one that match.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## Creation of the Game
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+With easy timer.js from http://albert-gonzalez.github.io/easytimer.js/ by Albert Conzalez, this game was based off the starter code from Udacity memory game repository and consist of HTML, CSS, AND JavaScript.
